@@ -76,7 +76,7 @@ Diş klinikleri için **hasta takip programı**.
 
 - Bir hata mı buldunuz veya öneriniz mi var? İlgili uygulamanın **Issues** sayfasından yazabilirsiniz.
 - Uygulamaların hepsi **MIT lisanslıdır**: özgürce kullanabilir, değiştirebilir ve paylaşabilirsiniz.
-- Windows uygulamaları kod imzalama sertifikasıyla imzalanır; ayrıntılar her projenin `docs/IMZALAMA.md` dosyasında.
+- Kaynak kodun tamamı açıktır; isteyen uygulamaları kendisi derleyebilir. Windows uygulamaları imzasız dağıtıldığı için ilk açılışta SmartScreen uyarısı çıkabilir (**Ek bilgi → Yine de çalıştır**).
 
 <div align="center">
 
